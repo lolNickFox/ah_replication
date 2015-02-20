@@ -1,36 +1,32 @@
 ---
 title: "Replication"
 author: "Nick F & Aaron K"
-date: "February 19, 2015"
+date: "February 20, 2015"
 output: html_document
 ---
 
-Testing this out because I want to make sure I don't accidently overwrite data.
+Our beautiful code: 
 
 ```{r}
-print("howdy")
+print("awesomeness")
 ```
 
-**Nick, could you just write something random? Pull, push and etc...**
-<<<<<<< HEAD
-
-```{r}
-print("Hello World!")
-```
-
-**okay - here it goes**
-
-=======
->>>>>>> dea524312e5020ad9824ba36ba658c31248e7c51
-
-----
-what is that line above (#24)?
-So I think we should be using the "shared repository workflow" rather than the fork & pull method, since it's only two of us. The only problem is that we're susceptible to merge conflicts. Do you have skype or aim or groupme? (i'd prefer groupme since it's web-browser based). or send me a text : 808.541.7579.
-
-Lets plan for a time where we both try to commit something simultaneously and see how to resolve a merge. 
-**------**
+---
 
 I have no idea what line 24 is...
 I don't know what groupme is, I'll look into it now.  based on your directions in the email, I think your github verbs are reversed.  Push is to github, pull is to your local machine.  
 
+---
+
+Yea, haha, I just realized that when I was trying to get this document.
+
+--- 
+
+<<<<<<< HEAD
+I have no idea what line 24 is...
+I don't know what groupme is, I'll look into it now.  based on your directions in the email, I think your github verbs are reversed.  Push is to github, pull is to your local machine.  
+
 Here are some new changes, going to try and push simultaniously (sp?) and look for a conflict.
+=======
+Aaron : here is my test for merge conflicts
+>>>>>>> aba592bf039551aa27a2931b3b2652e8c13e0cb7

@@ -28,3 +28,7 @@ what is that line above (#24)?
 So I think we should be using the "shared repository workflow" rather than the fork & pull method, since it's only two of us. The only problem is that we're susceptible to merge conflicts. Do you have skype or aim or groupme? (i'd prefer groupme since it's web-browser based). or send me a text : 808.541.7579.
 
 Lets plan for a time where we both try to commit something simultaneously and see how to resolve a merge. 
+**------**
+
+I have no idea what line 24 is...
+I don't know what groupme is, I'll look into it now.  based on your directions in the email, I think your github verbs are reversed.  Push is to github, pull is to your local machine.  

@@ -18,3 +18,5 @@ Nick : Here are some new changes, going to try and push simultaniously (sp?) and
 Aaron: testing merge conflicts number 2
 
 Nick: merge conflicts number 2 - you keep deleting everything and it makes me panic!  If you're pulling directly from rStudio, it looks like you can also do Edit > Undo to revert the pull, copy and paste your work, then Edit > Redo and bring the pull changes back...if necessary.
+
+Making another change @ 2:49p

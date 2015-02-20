@@ -32,3 +32,5 @@ Lets plan for a time where we both try to commit something simultaneously and se
 
 I have no idea what line 24 is...
 I don't know what groupme is, I'll look into it now.  based on your directions in the email, I think your github verbs are reversed.  Push is to github, pull is to your local machine.  
+
+Here are some new changes, going to try and push simultaniously (sp?) and look for a conflict.

@@ -1,0 +1,20 @@
+---
+title: "Replication"
+author: "Nick F & Aaron K"
+date: "February 19, 2015"
+output: html_document
+---
+
+Testing this out because I want to make sure I don't accidently overwrite data.
+
+```{r}
+print("howdy")
+```
+
+**Nick, could you just write something random? Pull, push and etc...**
+
+```{r}
+print("Hello World!")
+```
+
+**okay - here it goes**

@@ -13,13 +13,4 @@ print("awesomeness")
 
 ---
 
-I have no idea what line 24 is...
-I don't know what groupme is, I'll look into it now.  based on your directions in the email, I think your github verbs are reversed.  Push is to github, pull is to your local machine.  
-
----
-
-Yea, haha, I just realized that when I was trying to get this document.
-
---- 
-
-Aaron : here is my test for merge conflicts
+Aaron: testing merge conflicts number 2

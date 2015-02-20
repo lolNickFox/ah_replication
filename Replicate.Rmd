@@ -12,9 +12,12 @@ print("howdy")
 ```
 
 **Nick, could you just write something random? Pull, push and etc...**
+<<<<<<< HEAD
 
 ```{r}
 print("Hello World!")
 ```
 
 **okay - here it goes**
+=======
+>>>>>>> dea524312e5020ad9824ba36ba658c31248e7c51

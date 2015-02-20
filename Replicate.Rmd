@@ -19,3 +19,7 @@ I don't know what groupme is, I'll look into it now.  based on your directions i
 ---
 
 Yea, haha, I just realized that when I was trying to get this document.
+
+--- 
+
+Aaron : here is my test for merge conflicts

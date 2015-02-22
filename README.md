@@ -18,8 +18,21 @@ Sexual risk behaviors: <br>
 3) Sexual contact that was later regretted due to alcohol use (1 = has felt regret, 0 = has not felt regret) <br>
 4) Condom use in last sexual contact (1 = no condom use, 0 = condom was used) <br> <br>
 
-
-STD self report: <br>
+OUTCOME MEASURES <br> <br>
+Q1 - STD self report: <br>
 Chlamydia: H3SE21A <br>
 Gonorrhea: H3SE21B <br>
+Trichomoniasis: H3SE21C <br>
+Syphilis: H3SE21D <br>
+Genetal herpes: H3SE21E <br>
+HPV: H3SE21G <br>
+Bacterial vaginosis: H3SE21H <br>
+HIV / AIDS: H3SE21M <br>
+<br>
+Q2 - 4 or more sexual partners: H3SE3 <br>
+<br>
+Q3 - Regret after sexual contact due to alcohol: H3TO48C <br>
+<br>
+Q4 - Condom use during previous sexual encounter: H3SE10
+
 
